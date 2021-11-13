@@ -1,0 +1,4 @@
+node_modules
+wallets/main/*
+wallets/local/*
+wallets/test/*

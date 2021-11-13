@@ -1,0 +1,18 @@
+{
+  "name": "harmony-wallet-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node generate.js",
+    "import": "node import.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@harmony-js/core": "^0.1.57",
+    "@harmony-js/utils": "^0.1.56",
+    "tslib": "^2.3.1"
+  }
+}
