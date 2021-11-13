@@ -1,6 +1,10 @@
 # Harmony Wallet Generator
 Command line tool to quickly generate wallets.
 
+## Setup
+
+Install node.js :)
+
 ## Usage
 
 ### To generate a new wallet
